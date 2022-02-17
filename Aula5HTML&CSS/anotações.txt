@@ -1,0 +1,39 @@
+                     ANOTAÇÕES            
+height: ALTURA
+width: LARGURA
+user agent = É O NAVEGADOR QUE TA EXIBINDO
+-----------------------------------------------------
+
+TAGS BOX-LEVEL:
+
+° <div>
+° <h1>-<h6>
+° <p>
+° <main>
+° <header>
+° <nav>
+° <article>
+° <aside>
+° <footer>
+° <form>
+° <video>
+----------------------------------------------------
+
+TAGS INLINE-LEVEL:
+
+° <span>
+° <a>
+° <code>
+° <small>
+° <strong>
+° <em>
+° <sup>-<sub>
+° <label>
+° <button>
+° <input>
+° <select>
+-----------------------------------------------------
+
+Shorthand - Background
+
+color > image > position > repeat > [size] > attachent
